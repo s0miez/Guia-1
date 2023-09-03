@@ -8,5 +8,4 @@ fn main() {
             break;
          }
     }
-    println!()
 }
