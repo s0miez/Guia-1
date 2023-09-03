@@ -1,5 +1,4 @@
 use std::io;
-
 fn main() {
     let mut nombre = String::new();
     println!("Cuál es tu nombre?");
